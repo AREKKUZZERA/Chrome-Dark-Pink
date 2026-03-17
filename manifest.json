@@ -1,0 +1,26 @@
+{
+  "name": "Chrome Dark Pink",
+  "version": "1.2.0",
+  "description": "Dark theme for Chrome by AREKKUZZEARA",
+  "manifest_version": 3,
+  "theme": {
+    "colors": {
+      "frame": [30, 30, 34],
+      "frame_inactive": [24, 24, 28],
+      "frame_incognito": [26, 26, 30],
+      "frame_incognito_inactive": [22, 22, 26],
+      "toolbar": [18, 18, 20],
+      "tab_text": [179, 52, 113],
+      "tab_background_text": [195, 195, 202],
+      "bookmark_text": [220, 220, 220],
+      "ntp_background": [18, 18, 20],
+      "ntp_text": [238, 238, 238],
+      "ntp_link": [245, 40, 154],
+      "ntp_header": [245, 40, 154],
+      "button_background": [30, 30, 34]
+    },
+    "tints": {
+      "buttons": [0.92, 0.85, 0.55]
+    }
+  }
+}
