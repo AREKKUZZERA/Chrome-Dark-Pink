@@ -23,7 +23,7 @@ Designed for комфортной работы ночью и стильного 
 
 ## 📦 Installation
 
-1. Click **Code → Download ZIP**
+1. Click **Code → [Download ZIP](https://github.com/AREKKUZZERA/Chrome-Dark-Pink/blob/main/manifest.json)**
 2. Extract the archive
 3. Go to `chrome://extensions/`
 4. Enable **Developer mode**
