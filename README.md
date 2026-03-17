@@ -80,3 +80,19 @@ Minimalistic dark theme for Google Chrome with pink accents.
 ## 📸 Preview
 
 ![Preview](preview.png)
+
+## 📚 Resources
+
+<p align="left">
+  <a href="https://developer.chrome.com/docs/extensions/develop/ui/themes">
+    <img src="https://img.shields.io/badge/Chrome%20Themes-Docs-blue?style=for-the-badge&logo=google-chrome" />
+  </a>
+
+  <a href="https://developer.chrome.com/docs/extensions/reference/manifest">
+    <img src="https://img.shields.io/badge/Manifest-Reference-green?style=for-the-badge&logo=json" />
+  </a>
+
+  <a href="https://source.chromium.org/chromium/chromium/src/+/main:chrome/browser/themes/theme_properties.h">
+    <img src="https://img.shields.io/badge/Theme%20API-Chromium-orange?style=for-the-badge&logo=google" />
+  </a>
+</p>
