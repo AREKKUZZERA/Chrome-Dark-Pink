@@ -3,8 +3,6 @@
 Minimalistic dark theme for Google Chrome with neon pink accents.
 Designed for комфортной работы ночью и стильного вида интерфейса.
 
----
-
 ## 📦 Installation
 
 1. Click → **[Download raw file](https://github.com/AREKKUZZERA/Chrome-Dark-Pink/blob/main/manifest.json)**
@@ -12,8 +10,6 @@ Designed for комфортной работы ночью и стильного 
 3. Enable **Developer mode**
 4. Click **Load unpacked**
 5. Select downloaded **manifest.json** file
-
----
 
 ## 🎨 Customization
 
@@ -31,8 +27,6 @@ You can edit `manifest.json`:
   "ntp_header"
   ```
 * Experiment with `tints` for button styling
-
----
 
 ## 📸 Preview
 
