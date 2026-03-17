@@ -15,12 +15,6 @@ Designed for комфортной работы ночью и стильного 
 
 ---
 
-## 📸 Preview
-
-![Preview](preview.png)
-
----
-
 ## 🎨 Customization
 
 You can edit `manifest.json`:
@@ -37,3 +31,11 @@ You can edit `manifest.json`:
   "ntp_header"
   ```
 * Experiment with `tints` for button styling
+
+---
+
+## 📸 Preview
+
+![Preview](preview.png)
+
+---
