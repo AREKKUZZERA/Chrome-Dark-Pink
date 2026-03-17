@@ -37,5 +37,3 @@ You can edit `manifest.json`:
 ## 📸 Preview
 
 ![Preview](preview.png)
-
----
