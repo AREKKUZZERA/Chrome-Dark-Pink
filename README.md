@@ -10,98 +10,85 @@ Minimalistic dark theme for Google Chrome with pink accents.
 4. Click **Load unpacked**
 5. Select downloaded **manifest.json** file
 
-# 🎨 Theme Configuration (Описание параметров)
+# 🎨 Theme Configuration
 
 ## 🧩 `colors`
 
 ### `frame`
 
-* **RU:** Цвет активной вкладки и верхней панели браузера
-* **EN:** Color of the active tab and browser frame (top bar)
+Цвет активной вкладки и верхней панели браузера
 
 ---
 
 ### `frame_inactive`
 
-* **RU:** Цвет верхней панели, когда окно неактивно
-* **EN:** Frame color when the window is inactive
+Цвет верхней панели, когда окно неактивно
 
 ---
 
 ### `frame_incognito`
 
-* **RU:** Цвет верхней панели в режиме инкогнито
-* **EN:** Frame color in incognito mode
+Цвет верхней панели в режиме инкогнито
 
 ---
 
 ### `frame_incognito_inactive`
 
-* **RU:** Цвет верхней панели в инкогнито (неактивное окно)
-* **EN:** Frame color in incognito mode (inactive window)
+Цвет верхней панели в инкогнито (неактивное окно)
 
 ---
 
 ### `toolbar`
 
-* **RU:** Цвет панели инструментов (под вкладками), влияет на неактивные вкладки
-* **EN:** Toolbar color (below tabs), affects inactive tabs appearance
+Цвет панели инструментов (под вкладками), влияет на внешний вид неактивных вкладок
 
 ---
 
 ### `tab_text`
 
-* **RU:** Цвет текста активной вкладки
-* **EN:** Text color of the active tab
+Цвет текста активной вкладки
 
 ---
 
 ### `tab_background_text`
 
-* **RU:** Цвет текста неактивных вкладок
-* **EN:** Text color of inactive tabs
+Цвет текста неактивных вкладок
 
 ---
 
 ### `bookmark_text`
 
-* **RU:** Цвет текста панели закладок
-* **EN:** Text color of the bookmarks bar
+Цвет текста панели закладок
 
 ---
 
 ### `ntp_background`
 
-* **RU:** Фон страницы новой вкладки (New Tab Page)
-* **EN:** Background color of the New Tab Page (NTP)
+Фон страницы новой вкладки (New Tab Page)
 
 ---
 
 ### `ntp_text`
 
-* **RU:** Основной текст на странице новой вкладки
-* **EN:** Main text color on the New Tab Page
+Основной текст на странице новой вкладки
 
 ---
 
 ### `ntp_link`
 
-* **RU:** Цвет ссылок на странице новой вкладки
-* **EN:** Link color on the New Tab Page
+Цвет ссылок на странице новой вкладки
 
 ---
 
 ### `ntp_header`
 
-* **RU:** Цвет заголовков на странице новой вкладки
-* **EN:** Header color on the New Tab Page
+Цвет заголовков на странице новой вкладки
 
 ---
 
 ### `button_background`
 
-* **RU:** Цвет фона кнопок интерфейса (влияет на элементы управления)
-* **EN:** Background color of UI buttons (affects control elements)
+Цвет фона кнопок интерфейса
 
 ---
 
@@ -109,41 +96,22 @@ Minimalistic dark theme for Google Chrome with pink accents.
 
 ### `buttons`
 
-* **RU:** Оттенок (HSL), применяемый к кнопкам браузера (не прямой цвет)
-* **EN:** Tint (HSL) applied to browser buttons (not a direct color)
-
-💡
-
-* RU: Используется как цветовой фильтр, а не точный цвет
-* EN: Works as a color filter rather than a direct color value
+Оттенок (HSL), применяемый к кнопкам браузера (работает как фильтр, а не прямой цвет)
 
 ---
 
-## ⚠️ Important Notes / Важно
+## ⚠️ Important Notes
 
-* RU:
-  Некоторые элементы (например разделители вкладок или кнопки окна)
-  не настраиваются напрямую и зависят от контраста цветов.
-
-* EN:
-  Some elements (like tab separators or window buttons)
-  are not directly customizable and depend on color contrast.
+Некоторые элементы (например разделители вкладок или кнопки окна)
+не настраиваются напрямую и зависят от контраста цветов
 
 ---
 
-## 🎯 Tips / Советы
+## 🎯 Tips
 
-* RU:
-
-  * `frame` → активная вкладка
-  * `toolbar` → влияет на неактивные вкладки
-  * Контраст между ними = читаемость
-
-* EN:
-
-  * `frame` → active tab
-  * `toolbar` → affects inactive tabs
-  * Contrast between them = readability
+* `frame` → активная вкладка
+* `toolbar` → влияет на неактивные вкладки
+* Контраст между ними определяет читаемость
 
 ---
 
