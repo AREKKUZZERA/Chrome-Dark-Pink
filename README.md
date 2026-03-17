@@ -5,16 +5,6 @@ Designed for комфортной работы ночью и стильного 
 
 ---
 
-## ✨ Features
-
-* 🖤 Deep dark UI (no pure black, easy on eyes)
-* 🎀 Pink accent colors (links, highlights)
-* 🧠 Good contrast for readability
-* 🌙 Clean and minimal design
-* ⚡ Lightweight (no scripts, only theme)
-
----
-
 ## 📸 Preview
 
 ![Preview](preview.png)
