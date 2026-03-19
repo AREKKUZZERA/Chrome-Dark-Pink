@@ -18,8 +18,8 @@ Minimalistic dark theme for Google Chrome with pink accents.
 
 ## 📦 Installation (.crx file)
 
-1. Download the file:
-   👉 [theme.crx](https://github.com/AREKKUZZERA/Chrome-Dark-Pink/blob/main/theme.crx)
+1. Download the latest release:
+   👉 [Download](https://github.com/AREKKUZZERA/Chrome-Dark-Pink/releases/latest/download/theme.crx) ![GitHub release](https://img.shields.io/github/v/release/AREKKUZZERA/Chrome-Dark-Pink)
 
 2. Open Chrome and go to:
    `chrome://extensions/`
