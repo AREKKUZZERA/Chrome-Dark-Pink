@@ -1,7 +1,20 @@
 # 🌑 Chrome Dark Pink Theme
 
-Minimalistic dark theme for Google Chrome with neon pink accents.
-Designed for комфортной работы ночью и стильного вида интерфейса.
+<p align="left">
+  <a href="https://developer.chrome.com/docs/extensions/develop/ui/themes">
+    <img src="https://img.shields.io/badge/Chrome%20Themes-Docs-blue?style=for-the-badge&logo=google-chrome" />
+  </a>
+
+  <a href="https://developer.chrome.com/docs/extensions/reference/manifest">
+    <img src="https://img.shields.io/badge/Manifest-Reference-green?style=for-the-badge&logo=json" />
+  </a>
+
+  <a href="https://source.chromium.org/chromium/chromium/src/+/main:chrome/browser/themes/theme_properties.h">
+    <img src="https://img.shields.io/badge/Theme%20API-Chromium-orange?style=for-the-badge&logo=google" />
+  </a>
+</p>
+
+Minimalistic dark theme for Google Chrome with pink accents.
 
 ## 📦 Installation
 
@@ -11,22 +24,72 @@ Designed for комфортной работы ночью и стильного 
 4. Click **Load unpacked**
 5. Select downloaded **manifest.json** file
 
-## 🎨 Customization
+# 🎨 Theme Configuration
 
-You can edit `manifest.json`:
+## 🧩 `colors`
 
-* Change colors in:
+### `frame`
 
-  ```json
-  "colors": { ... }
-  ```
-* Adjust accents:
+Цвет активной вкладки и верхней панели браузера
 
-  ```json
-  "ntp_link"
-  "ntp_header"
-  ```
-* Experiment with `tints` for button styling
+### `frame_inactive`
+
+Цвет верхней панели, когда окно неактивно
+
+### `frame_incognito`
+
+Цвет верхней панели в режиме инкогнито
+
+### `frame_incognito_inactive`
+
+Цвет верхней панели в инкогнито (неактивное окно)
+
+### `toolbar`
+
+Цвет панели инструментов (под вкладками), влияет на внешний вид неактивных вкладок
+
+### `tab_text`
+
+Цвет текста активной вкладки
+
+### `tab_background_text`
+
+Цвет текста неактивных вкладок
+
+### `bookmark_text`
+
+Цвет текста панели закладок
+
+### `ntp_background`
+
+Фон страницы новой вкладки (New Tab Page)
+
+### `ntp_text`
+
+Основной текст на странице новой вкладки
+
+### `ntp_link`
+
+Цвет ссылок на странице новой вкладки
+
+### `ntp_header`
+
+Цвет заголовков на странице новой вкладки
+
+### `button_background`
+
+Цвет фона кнопок интерфейса
+
+## 🎛️ `tints`
+
+### `buttons`
+
+Оттенок (HSL), применяемый к кнопкам браузера (работает как фильтр, а не прямой цвет)
+
+## ⚠️ ВАЖНО
+
+Некоторые элементы (например разделители вкладок или кнопки окна)
+не настраиваются напрямую и зависят от контраста цветов
 
 ## 📸 Preview
 
