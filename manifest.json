@@ -6,7 +6,7 @@
   "theme": {
     "colors": {
       "frame":                              [18,  18,  20 ],
-      "frame_inactive":                     [24,  24,  28 ],
+      "frame_inactive":                     [18,  18,  20 ],
       "frame_incognito":                    [22,  22,  26 ],
       "frame_incognito_inactive":           [20,  20,  24 ],
 
@@ -26,7 +26,7 @@
 
       "bookmark_text":                     [220, 220, 220],
 
-      "button_background":                 [31,  31,  31 ],
+      "button_background":                 [18,  18,  20 ],
 
       "ntp_background":                    [18,  18,  20 ],
       "ntp_text":                          [238, 238, 238],
