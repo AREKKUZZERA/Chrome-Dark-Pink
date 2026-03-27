@@ -1,5 +1,5 @@
 # 🌑 Chrome Dark Pink Theme
-
+ 
 <p align="left">
   <a href="https://developer.chrome.com/docs/extensions/develop/ui/themes">
     <img src="https://img.shields.io/badge/Chrome%20Themes-Docs-blue?style=for-the-badge&logo=google-chrome" />
